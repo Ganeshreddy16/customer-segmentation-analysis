@@ -1,7 +1,4 @@
-"# Customer Segmentation Analysis Project" 
-
-
-(visualizations/final_dashboard.png)
+## Customer Segmentation Analysis Project
 
 ## Project Overview
 

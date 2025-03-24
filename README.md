@@ -5,7 +5,8 @@
 This project performs advanced customer segmentation analysis on retail transaction data using RFM (Recency, Frequency, Monetary) metrics and K-means clustering in Tableau. By identifying distinct customer groups, this analysis enables targeted marketing strategies, personalized communication, and improved customer relationship management.
 
 The analysis uses the "Online Retail" dataset, containing transactions from a UK-based online retailer between 2010-2011, to identify five customer segments with unique behavioral patterns and business value.
-https://www.kaggle.com/datasets/vijayuv/onlineretail
+
+Dataset Link: https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 ## Key Findings
 
